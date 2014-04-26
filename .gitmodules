@@ -1,14 +1,14 @@
 [submodule "zeroreserve"]
 	path = zeroreserve
-	url = git://github.com/zeroreserve/ZeroReserve.git
+	url = https://github.com/zeroreserve/ZeroReserve.git
 [submodule "paintchat"]
 	path = paintchat
-	url = git://github.com/electron128/Retroshare-Paintchat-Plugin
+	url = https://github.com/electron128/Retroshare-Paintchat-Plugin.git
 [submodule "rswebui"]
 	path = rswebui
-	url = git://gitorious.org/rswebui/rswebui.git
+	url = https://gitorious.org/rswebui/rswebui.git
 [submodule "friendmap"]
 	path = friendmap
-	url = git://github.com/chozabu/FriendMap
+	url = https://github.com/chozabu/FriendMap.git
 
 
