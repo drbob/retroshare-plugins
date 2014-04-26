@@ -1,0 +1,14 @@
+[submodule "zeroreserve"]
+	path = zeroreserve
+	url = git://github.com/zeroreserve/ZeroReserve.git
+[submodule "paintchat"]
+	path = paintchat
+	url = git://github.com/electron128/Retroshare-Paintchat-Plugin
+[submodule "rswebui"]
+	path = rswebui
+	url = git://gitorious.org/rswebui/rswebui.git
+[submodule "friendmap"]
+	path = friendmap
+	url = git://github.com/chozabu/FriendMap
+
+
