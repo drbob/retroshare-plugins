@@ -27,7 +27,7 @@ check-out in base of retroshare source tree.
 
 	git clone git:\\github.com\drbob\retroshare-plugins.git
 	cd retroshare-plugins
-	git update submodules --init
+	git submodule update --init
 	qmake
 	make
 
